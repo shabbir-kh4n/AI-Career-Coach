@@ -348,23 +348,6 @@ npm run lint
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-### **Development Guidelines**
-- Follow existing code style
-- Add comments for complex logic
-- Test new features
-- Update documentation
-
----
 
 ## 📝 License
 
@@ -378,7 +361,6 @@ This project is licensed under the MIT License.
 
 - 🔗 [GitHub](https://github.com/shabbir-kh4n)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gulam-shabbir-khan-530528223/)
-- 🐦 [Twitter](https://x.com/Shabbir28604516)
 - 📧 [Email](mailto:helloshabbirkhanhi@gmail.com)
 
 ---
@@ -418,7 +400,6 @@ For issues, questions, or suggestions:
 
 **Made with ❤️ by Shabbir**
 
-⭐ If you find this helpful, please consider giving it a star on GitHub!
 
 ---
 
